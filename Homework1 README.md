@@ -1,5 +1,4 @@
 # Patika.dev OOP homework1
-'''
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
@@ -12,5 +11,5 @@
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
-'''
+
 ![](https://i.hizliresim.com/bxy85m9.png)
